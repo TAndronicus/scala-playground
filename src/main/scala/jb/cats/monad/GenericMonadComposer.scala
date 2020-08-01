@@ -1,4 +1,4 @@
-package jb.cats
+package jb.cats.monad
 
 import cats.Monad
 import cats.syntax.applicative._
